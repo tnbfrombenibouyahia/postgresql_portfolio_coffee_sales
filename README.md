@@ -28,6 +28,14 @@ Wrote multiple analytical queries to answer business questions:
 - Automated query execution and chart generation.
 - Saved visualizations as `.png` files for reporting and documentation.
 
+## 🗄 Database Schema
+
+<p align="center">
+  <img src="data_overview.png" alt="Database Schema Overview" width="600">
+</p>
+
+This schema shows the relational structure of the dataset, including all tables, their columns, and the relationships between them.
+
 ---
 
 ## 📊 Analysis & Visualizations
