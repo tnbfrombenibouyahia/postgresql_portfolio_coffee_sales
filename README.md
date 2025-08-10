@@ -17,11 +17,11 @@ Python (Pandas, Matplotlib) – Automating query execution and generating visual
 
 2 - SQL Queries
     Wrote multiple analytical queries to answer business questions:
-      a - Revenue per product.
-      b - Gross margin by product category.
-      c - Revenue by store region.
-      d - Monthly revenue trends.
-      e - Top 10 customers by spending.
+      a - Revenue per product. 
+      b - Gross margin by product category. 
+      c - Revenue by store region. 
+      d - Monthly revenue trends. 
+      e - Sales per hour of the day
 
 3 - Data Visualization with Python
     Connected Python to PostgreSQL using psycopg2 and pandas.
